@@ -1,0 +1,17 @@
+{
+    "name": "shrekuu/line-web-login-v2",
+    "description": "line web login v2",
+    "type": "library",
+    "authors": [
+        {
+            "name": "温柔的码农",
+            "email": "shrekuu@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Line\\": "src/Line/"
+        }
+    }
+}
